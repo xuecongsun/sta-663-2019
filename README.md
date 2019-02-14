@@ -98,9 +98,7 @@
 - Using `itertools`
 - Pipelines with `toolz`
 
-Exercise: Find the 10-digit number(s) made up from the digits 0-9 with the property that number made up from the first $k$ digits is divisible by $k$. For example, if a number started with 1236, it fits the rule for the first 4 digits since 1 is divisible by 1, 12 is divisible by 2, 123 is divisible by 3 and 1236 is divisible by 4.
-
-### Midterm 1 (15%)
+### Midterm 1 (15%) 01 Feb
 
 ## Explain how common statistical algorithms work
 
@@ -168,7 +166,7 @@ Exercise: Find the 10-digit number(s) made up from the digits 0-9 with the prope
 - Gaussian process
 - Using `scipy.interpolate`
 
-### Clustering
+### Clustering  
 
 - Partitioning (k-means)
 - Hierarchical (agglomerative Hierarchical Clustering)
@@ -180,7 +178,7 @@ Exercise: Find the 10-digit number(s) made up from the digits 0-9 with the prope
 - Cluster alignment (Munkres)
 - Using `skearn.cluster`
 
-### Midterm 2 (15%)
+### Midterm 2 (15%) 01 March 2019
 
 ## Construct models using probabilistic programming
 
